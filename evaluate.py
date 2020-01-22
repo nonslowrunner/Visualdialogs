@@ -1,3 +1,5 @@
+import import_dependencies
+
 def evaluate(image_path, sentence):
   
   image_input =  load_image_vgg(image_path)
