@@ -1,4 +1,6 @@
 from dependencies import *
+from train import *
+from model import *
 
 def evaluate(image_path, sentence):
   
