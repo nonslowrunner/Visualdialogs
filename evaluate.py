@@ -1,4 +1,4 @@
-import import_dependencies
+from dependencies import *
 
 def evaluate(image_path, sentence):
   
