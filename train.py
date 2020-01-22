@@ -1,3 +1,5 @@
+from dependencies import *
+
 #Define an optimizer and Loss function
 
 optimizer = tf.keras.optimizers.Adam()
