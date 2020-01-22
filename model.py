@@ -1,3 +1,5 @@
+from dependencies import *
+
 class Encoder(tf.keras.Model):
 # Encoder model
   def __init__(self,vocab_size, embedding_dim ,enc_units, batch_sz):
