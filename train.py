@@ -1,4 +1,5 @@
 from dependencies import *
+from model import *
 
 #Define an optimizer and Loss function
 
